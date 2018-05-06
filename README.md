@@ -5,4 +5,4 @@ A simplistic face Watch that show time :), the battery status, the steps count f
 
 Final Preview
 
-[Final Preview](imagesFaceWatch/final.png)
+![Final Preview](imagesFaceWatch/final.png)
